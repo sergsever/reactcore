@@ -1,5 +1,5 @@
 # reactcore
-## asp.net core and react
+## asp.net core and react simple
 ## Build 
 ### In the folder [wwwroot\js\clientapp]()<br/> 
 $>*npm install*<br/>
